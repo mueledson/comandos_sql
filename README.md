@@ -3,7 +3,8 @@
     * [] Alinhas os comandos sql
     * [] PHP
     
-    ![image](https://user-images.githubusercontent.com/87488503/156892550-5a9dab65-f44f-4585-b0f5-61d7ffa552aa.png)
+    <img width="772" alt="projeto" src="https://user-images.githubusercontent.com/87488503/156892607-d97d8ba4-d049-4c0a-be99-9e643a86e08c.png">
+
 
 
 ### Git comandos
