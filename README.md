@@ -1,6 +1,6 @@
 # Projeto Start
     * [] HTML e CSS
-    * [] Alinhas os comandos sql
+    * [] Alinhar os comandos sql
     * [] PHP
 
 ### Git comandos
