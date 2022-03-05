@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; } /** Reset */
+.card{
+    width: 1000px;
+    height: 350px;
+    margin: auto;  /** Papai */
+    font-family: "Fredoka";
+}
+.img{
+    width: 500px;
+    float: left;
+}
+img{
+    width: 343px;
+    text-align: center;
+    margin-left: 80px;
+}
+.left{
+    width: 500px;
+    height: 350px;
+    background-color: lightblue;
+    float: right;
+    border-left: 2px solid red;
+}
+.nome{
+    text-align: center;
+}
+.carteira{
+    text-align: center;
+}
